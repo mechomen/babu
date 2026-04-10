@@ -6,17 +6,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 - 🔭 Currently working on various open-source projects and personal development.
 - 🌱 Always eager to learn new technologies and improve my skills.
-- 💬 Ask me about anything related to web development, machine learning, and automation.
+- 💬 Ask me about anything related to java development, machine learning, and automation.
 - 📫 How to reach me: [mechomen@example.com](mailto:mechomen@example.com)
 - ⚡ Fun fact: I love exploring new programming languages and frameworks.
 
 ## Skills
 
-- **Languages:**Html,Css, JavaScript, TypeScript, Java 
+- **Languages:** Html,Css, JavaScript, TypeScript, Java,python
 - **Frameworks and Libraries:** css frameworks, Node.js
 - **Tools and Technologies:** Git, Docker, Kubernetes, AWS, Azure
 - **Databases:** MySQL
-
+- **AI Domain:**Machine learning with python
 ## Projects
 
 Here are a few highlights of my work:
