@@ -1,4 +1,4 @@
-# Hi there, I'm Mechomen! 👋
+# Hi there, I'm Vadde Bhargav! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative and efficient solutions. Here you'll find a collection of my projects, contributions, and collaborations.
 
