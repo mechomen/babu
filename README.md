@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Here are a few highlights of my work:
 
-- [1 portfolio ](https://github.com/mechomen/project1) -An interactive portfolio website showcasing my skills, projects, and professional journey as a frontend developer.
+- [1 portfolio ](https://github.com/mechomen/Online_Quiz_Application) -An interactive portfolio website showcasing my skills, projects, and professional journey as a frontend developer.
 
 Features.Frontend: HTML5, CSS3, JavaScript (ES6+), Angular 14+, Tailwind CSS
 - [Project Name 2](https://github.com/mechomen/project2) - A brief description of what this project does.
