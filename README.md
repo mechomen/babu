@@ -24,7 +24,7 @@ Here are a few highlights of my work:
 - [1 portfolio ](https://github.com/mechomen/Online_Quiz_Application) -An interactive portfolio website showcasing my skills, projects, and professional journey as a frontend developer.
 
 Features.Frontend: HTML5, CSS3, JavaScript (ES6+), Angular 14+, Tailwind CSS
-- [Project Name 2](https://github.com/mechomen/project2) - A brief description of what this project does.
+- [Project Name 2](https://bolt.new/~/sb1-izumxenb) - A brief description of what this project does.
 - [Project Name 3](https://github.com/mechomen/project3) - A brief description of what this project does.
 
 Feel free to check out my repositories for more projects and contributions.
